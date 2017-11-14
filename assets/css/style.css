@@ -1,0 +1,73 @@
+header {
+	font-size: 200%;
+	text-align: left;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: white;
+}
+.head-container {
+	float:left;
+	padding: 20px;
+	border: 5px #4aaaa5;
+	margin-left: 150px;
+	margin-top:0px;
+	background: #4aaaa5;
+	position:relative;
+}
+.contact {
+	float:right;
+	margin-right:60px;
+	font-color:black;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+.portfolio {
+	float:right;
+	margin-right:20px;
+	font-color:black;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	}
+
+.about {
+	float:right;
+	margin-right:20px;
+	font-color:black;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+body {
+	background-image: url("../images/stonehaven/stonehaven.png");
+}
+
+h3 {
+	text-align:center;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color:#4aaaa5;
+}
+
+.aboutme {
+	float:left;
+	width:650px;
+	margin-left:150px;
+	margin-top:100px;
+	position:absolute;
+	border:solid #cccccc;
+	background:#ffffff;
+
+}
+h1 {
+	color:#4aaaa5;
+	font-style:underline;
+	margin-left:20px;
+}
+
+.connect {
+	float:left;
+	width:270px;
+	margin-left:840px;
+	margin-top:100px;
+	position:absolute;
+	border:solid #cccccc;
+	background:#ffffff;
+}
+.topmain {
+	background:#ffffff;
+}
